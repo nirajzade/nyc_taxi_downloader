@@ -1,0 +1,4 @@
+*.pyc
+*.log
+nyc_taxi_data/
+.venv/
